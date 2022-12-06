@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
-    font-style: italic;
+    font-style: normal;
     list-style: none;
 }
 
@@ -231,6 +231,7 @@
 
 .sale-left p{
     font-family: 'Roboto';
+    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
@@ -306,7 +307,7 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
-    color: #252420;
+    
     transition: 1.2s;
 }
 
@@ -318,6 +319,7 @@
 
 .footer-list2 li a{
     text-decoration: none;
+    color: #000;
 }
 
 .footer-list2 li a:hover{
